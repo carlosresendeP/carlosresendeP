@@ -8,7 +8,8 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
 
 - 🎯 Foco em criação de sites modernos, rápidos e responsivos.
 - 💻 Desenvolvo com foco em performance, acessibilidade e boas práticas.
-- ✨ Amante de UI/UX e design clean.
+- 🌱 Freelancer
+- ✨ UI/UX 
 - 📍 Sempre aprendendo e evoluindo!
 
 ---
