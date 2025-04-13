@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 Atualmente aprendendo **React** e **Node.js**  
-- 💼 Freelancer em plataformas como **Fiverr** e **Upwork**  
+- 💼 Freelancer
 - 📫 Entre em contato comigo: dev.carlosresende@hotmail.com  
 
 ---
