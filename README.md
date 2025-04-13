@@ -1,65 +1,91 @@
-<h1 align="center">👋 Olá, Eu sou Carlos!</h1>
+# 👋 Olá! Eu sou o Carlos!
 
-
----
-
-## 🧑‍💻 Sobre Mim
-
-<p>
-  Sou um desenvolvedor apaixonado por criar interfaces modernas e intuitivas. Adoro transformar ideias em experiências digitais funcionais e esteticamente agradáveis. 
-  Sempre em busca de novos desafios e aprendizados no mundo da tecnologia.
-</p>
-
-- 🌱 Atualmente aprendendo **React** e **Node.js**  
-- 💼 Freelancer
-- 📫 Entre em contato comigo: dev.carlosresende@hotmail.com  
+Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiências e evolução no mundo do desenvolvimento web. 🚀
 
 ---
 
-## 🚀 Habilidades
+## 🧠 Sobre mim
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>HTML5</b></td>
-      <td align="center"><b>CSS3</b></td>
-      <td align="center"><b>JavaScript</b></td>
-      <td align="center"><b>React</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Git</b></td>
-      <td align="center"><b>Node.js</b></td>
-      <td align="center"><b>Figma</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
-      </td>
-    </tr>
-  </table>
-</div>
+- 🎯 Foco em criação de sites modernos, rápidos e responsivos.
+- 💻 Desenvolvo com foco em performance, acessibilidade e boas práticas.
+- ✨ Amante de UI/UX e design clean.
+- 📍 Sempre aprendendo e evoluindo!
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
 
-<h4 align="center">Feito com ❤️ e muito código!</h4>
+| Front-end     | Back-end    | Estilo       | Ferramentas & Outros |
+|---------------|-------------|--------------|-----------------------|
+| HTML          | Node.js     | CSS          | Git & GitHub          |
+| JavaScript    | Express     | Sass         | Figma                 |
+| React         |             | Bootstrap    | VS Code               |
+
+---
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+      <br />HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+      <br />CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" />
+      <br />Sass
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+      <br />Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+      <br />Express
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+      <br />Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+      <br />Git
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📁 Projetos em Destaque
+
+Explore meus repositórios para ver projetos de portfólio, landing pages, aplicações com React, consumo de APIs, entre outros!
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlos-paula2001/))
+- 🌐 [Portfólio](https://carlosresende.com)
+- ✉️ dev.carlosresende@hotmail.com
+
+---
+
+> *"Construindo interfaces com propósito e performance."*
+
