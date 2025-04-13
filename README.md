@@ -22,7 +22,7 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
 | React         |             | Bootstrap    | VS Code               |
 
 ---
-<h2>🛠️ Tecnologias e Ferramentas</h2>
+<h2> 💻 Tecnologias</h2>
 
 <table>
   <tr>
@@ -67,6 +67,20 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
       <br />Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+      <br />Docker
     </td>
   </tr>
 </table>
