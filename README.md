@@ -19,7 +19,8 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
 |---------------|-------------|--------------|-----------------------|
 | HTML          | Node.js     | CSS          | Git & GitHub          |
 | JavaScript    | Express     | Sass         | Figma                 |
-| React         |             | Bootstrap    | VS Code               |
+| React         | MongoDb     | Bootstrap    | VS Code               |
+|               | Docker      |              |                       |
 
 ---
 <h2> 💻 Tecnologias</h2>
