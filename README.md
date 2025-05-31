@@ -14,7 +14,6 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosresendeP&show_icons=true&theme=Gothan)
 
 ## 🛠️ Tecnologias e Ferramentas
 
