@@ -22,7 +22,7 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
 | HTML          | Node.js     | CSS          | Git & GitHub          |
 | JavaScript    | Express     | Sass         | Figma                 |
 | React         | MongoDb     | Bootstrap    | VS Code               |
-|               | Docker      |              |                       |
+| typescript    | Docker      | tailwindcss  |                       |
 
 ---
 <h2> 💻 Tecnologias</h2>
@@ -84,6 +84,14 @@ Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiênc
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
       <br />Docker
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40" alt="Docker" />
+      <br />Tailwindcss
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" alt="typescript" />
+      <br />typescript
     </td>
   </tr>
 </table>
