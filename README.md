@@ -107,7 +107,7 @@ Explore meus repositórios para ver projetos de portfólio, landing pages, aplic
 ## 📬 Contato
 
 - 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlos-paula2001/))
-- 🌐 [Portfólio](https://carlosresende.com)
+- 🌐 [Portfólio](https://devcarlosresende.com.br)
 - ✉️ dev.carlosresende@hotmail.com
 
 ---
