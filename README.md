@@ -1,74 +1,108 @@
-# 👋 Olá, eu sou o Carlos!
+<h1 align="center">👋 Olá, eu sou o Carlos Alexandre</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Carlos%20Resende&fontSize=70&animation=fadeIn" />
+  Desenvolvedor <strong>Front-End</strong> focado em criar interfaces modernas,
+  rápidas e bem estruturadas.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/carlos-paula2001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/carlos-paula2001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://devcarlosresende.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  <a href="https://devcarlosresende.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:dev.carlosresende@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<hr/>
 
-## 🧠 Sobre Mim
+<h2>🧠 Sobre mim</h2>
 
-Sou um **Desenvolvedor Front-end** apaixonado por criar experiências digitais de alto impacto. Meu foco é unir **design UI/UX** com código limpo e performático.
+<ul>
+  <li>🎯 Desenvolvimento de <strong>sites, landing pages e aplicações web modernas</strong></li>
+  <li>⚡ Foco em <strong>performance, acessibilidade e boas práticas</strong></li>
+  <li>🎨 Forte atenção a <strong>UI/UX</strong></li>
+  <li>💼 Freelancer</li>
+  <li>🌱 Em constante evolução no ecossistema JavaScript</li>
+</ul>
 
-- 🎯 **Foco atual:** Aplicações escaláveis com Next.js e TypeScript.
-- 💻 **Mindset:** Performance, acessibilidade (A11y) e SEO.
-- 🌱 **Evolução:** Freelancer dedicado a transformar ideias em produtos reais.
-- ⚡ **Diferencial:** Olhar crítico para design e experiência do usuário.
+<hr/>
 
----
+<h2>🚀 Stack Principal</h2>
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 🎨 Front-end & Estilização
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Back-end & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" />
+<h3>Front-end</h3>
+<p>
+  HTML • CSS • JavaScript • TypeScript • React • <strong>Next.js</strong>
 </p>
 
----
+<h3>Estilização</h3>
+<p>
+  Sass • Tailwind CSS • Bootstrap
+</p>
 
-## 📁 Projetos em Destaque
+<h3>Back-end & Dados</h3>
+<p>
+  Node.js • Express • MongoDB • PostgreSQL
+</p>
 
-* **[Projeto 1]**: Descrição rápida do que o projeto faz e tecnologias usadas.
-* **[Projeto 2]**: Descrição rápida do que o projeto faz e tecnologias usadas.
+<h3>Ferramentas</h3>
+<p>
+  Git • GitHub • Docker • Figma • VS Code
+</p>
 
----
+<hr/>
+
+<h2>💻 Tecnologias</h2>
 
 <p align="center">
-  <i>"Construindo interfaces com propósito e performance."</i><br>
-  🚀 Conecte-se comigo e vamos criar algo incrível!
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+</p>
+
+<hr/>
+
+<h2>📁 Projetos</h2>
+
+<p>
+  Nos meus repositórios você encontrará:
+</p>
+
+<ul>
+  <li>🌐 Sites institucionais e landing pages</li>
+  <li>⚛️ Aplicações com React e Next.js</li>
+  <li>🧠 Consumo de APIs REST</li>
+  <li>📱 Layouts responsivos e acessíveis</li>
+  <li>⚡ Código organizado e foco em performance</li>
+</ul>
+
+<hr/>
+
+<h2>📬 Contato</h2>
+
+<p>
+  💼 <a href="https://www.linkedin.com/in/carlos-paula2001/" target="_blank">LinkedIn</a><br/>
+  🌐 <a href="https://devcarlosresende.com.br" target="_blank">Meu site de Portfólio</a><br/>
+  ✉️ dev.carlosresende@hotmail.com
+</p>
+
+<hr/>
+
+<p align="center">
+  <em>Construindo interfaces com propósito, performance e atenção aos detalhes.</em>
 </p>
