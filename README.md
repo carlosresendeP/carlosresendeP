@@ -83,7 +83,7 @@ Sou um **desenvolvedor front-end freelancer** apaixonado por criar experiências
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| 🌐 **[Portfolio](https://devcarlosresende.com.br)** | Next.js, TypeScript, Tailwind | Meu portfólio pessoal com design moderno |
+| 🌐 **[Aparatus](https://github.com/carlosresendeP/aparatus)** | Next.js, TypeScript, Tailwind | Um Sass completo com nexj.js  |
 | 🚀 **Explore os repositórios** | React, Node.js, APIs | Landing pages, aplicações full-stack e mais |
 
 </div>
