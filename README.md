@@ -1,108 +1,146 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Alexandre</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor <strong>Front-End</strong> focado em criar interfaces modernas,
-  rápidas e bem estruturadas.
-</p>
+# 👋 Olá! Eu sou o Carlos!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-paula2001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://devcarlosresende.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:dev.carlosresende@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Desenvolvedor Front-End | FullStack
 
-<hr/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Front-End;Especialista+em+React+%26+Next.js;UI%2FUX+Designer;Freelancer+Apaixonado" alt="Typing SVG" />
 
-<h2>🧠 Sobre mim</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-paula2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devcarlosresende.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.carlosresende@hotmail.com)
 
-<ul>
-  <li>🎯 Desenvolvimento de <strong>sites, landing pages e aplicações web modernas</strong></li>
-  <li>⚡ Foco em <strong>performance, acessibilidade e boas práticas</strong></li>
-  <li>🎨 Forte atenção a <strong>UI/UX</strong></li>
-  <li>💼 Freelancer</li>
-  <li>🌱 Em constante evolução no ecossistema JavaScript</li>
-</ul>
+</div>
 
-<hr/>
+---
 
-<h2>🚀 Stack Principal</h2>
+## 🚀 Sobre Mim
 
-<h3>Front-end</h3>
-<p>
-  HTML • CSS • JavaScript • TypeScript • React • <strong>Next.js</strong>
-</p>
+```typescript
+const carlos = {
+  role: "Desenvolvedor Front-End",
+  location: "Brasil 🇧🇷",
+  workplace: "Freelancer",
+  focus: ["Performance", "Acessibilidade", "UI/UX", "Clean Code"],
+  passion: "Transformar ideias em experiências digitais incríveis",
+  currentlyLearning: ["Next.js 15", "TypeScript Avançado", "Web Performance"],
+  lifePhilosophy: "Construindo interfaces com propósito e performance"
+};
+```
 
-<h3>Estilização</h3>
-<p>
-  Sass • Tailwind CSS • Bootstrap
-</p>
+🎯 **Especializado em:** Criação de sites modernos, rápidos e responsivos  
+💡 **Foco em:** Performance, acessibilidade e boas práticas de desenvolvimento  
+✨ **Paixão por:** UI/UX Design e experiência do usuário  
+📈 **Mindset:** Sempre aprendendo e evoluindo
 
-<h3>Back-end & Dados</h3>
-<p>
-  Node.js • Express • MongoDB • PostgreSQL
-</p>
+---
 
-<h3>Ferramentas</h3>
-<p>
-  Git • GitHub • Docker • Figma • VS Code
-</p>
+## 🛠️ Tech Stack
 
-<hr/>
+### 💻 Front-End
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</div>
 
-<h2>💻 Tecnologias</h2>
+### 🎨 Styling & Design
+<div align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
-</p>
+### ⚙️ Back-End & Database
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
 
-<hr/>
+### 🔧 Ferramentas & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
 
-<h2>📁 Projetos</h2>
+---
 
-<p>
-  Nos meus repositórios você encontrará:
-</p>
+## 📊 GitHub Stats
 
-<ul>
-  <li>🌐 Sites institucionais e landing pages</li>
-  <li>⚛️ Aplicações com React e Next.js</li>
-  <li>🧠 Consumo de APIs REST</li>
-  <li>📱 Layouts responsivos e acessíveis</li>
-  <li>⚡ Código organizado e foco em performance</li>
-</ul>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-<hr/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<h2>📬 Contato</h2>
+---
 
-<p>
-  💼 <a href="https://www.linkedin.com/in/carlos-paula2001/" target="_blank">LinkedIn</a><br/>
-  🌐 <a href="https://devcarlosresende.com.br" target="_blank">Meu site de Portfólio</a><br/>
-  ✉️ dev.carlosresende@hotmail.com
-</p>
+## 🏆 Projetos em Destaque
 
-<hr/>
+<div align="center">
 
-<p align="center">
-  <em>Construindo interfaces com propósito, performance e atenção aos detalhes.</em>
-</p>
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| 🌐 **[Portfolio](https://devcarlosresende.com.br)** | Next.js, TypeScript, Tailwind | Meu portfólio pessoal com design moderno |
+| 🚀 **Explore os repositórios** | React, Node.js, APIs | Landing pages, aplicações full-stack e mais |
+
+</div>
+
+📁 **Navegue pelos meus repositórios** para descobrir projetos de portfólio, landing pages, aplicações com React/Next.js, consumo de APIs e muito mais!
+
+---
+
+## 💼 Experiência & Foco
+
+- ✅ **Sites & Landing Pages** - Design responsivo e otimizado
+- ✅ **Aplicações Web** - React e Next.js com melhor performance
+- ✅ **UI/UX Design** - Interfaces intuitivas e acessíveis
+- ✅ **SEO & Performance** - Otimização para mecanismos de busca
+- ✅ **APIs & Integrações** - Consumo e desenvolvimento de APIs REST
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+Estou sempre aberto a novos projetos e colaborações! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-paula2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devcarlosresende.com.br)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.carlosresende@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote do Dia
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐️ **Se você gostou dos meus projetos, deixe uma estrela!** ⭐️
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>✨ "Construindo interfaces com propósito e performance." ✨</i>
+</div>
