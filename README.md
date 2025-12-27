@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Front-End | FullStack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Front-End;Especialista+em+React+%26+Next.js;UI%2FUX+Designer;Freelancer+Apaixonado" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Front-End;Desenvolvedor+Full-Stack" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-paula2001/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devcarlosresende.com.br)
@@ -16,22 +16,13 @@
 
 ## 🚀 Sobre Mim
 
-```typescript
-const carlos = {
-  role: "Desenvolvedor Front-End",
-  location: "Brasil 🇧🇷",
-  workplace: "Freelancer",
-  focus: ["Performance", "Acessibilidade", "UI/UX", "Clean Code"],
-  passion: "Transformar ideias em experiências digitais incríveis",
-  currentlyLearning: ["Next.js 15", "TypeScript Avançado", "Web Performance"],
-  lifePhilosophy: "Construindo interfaces com propósito e performance"
-};
-```
+Sou um **desenvolvedor front-end freelancer** apaixonado por criar experiências digitais incríveis. Meu trabalho é focado em transformar ideias em sites e aplicações modernas, rápidas e responsivas que fazem a diferença.
 
 🎯 **Especializado em:** Criação de sites modernos, rápidos e responsivos  
 💡 **Foco em:** Performance, acessibilidade e boas práticas de desenvolvimento  
 ✨ **Paixão por:** UI/UX Design e experiência do usuário  
-📈 **Mindset:** Sempre aprendendo e evoluindo
+📈 **Mindset:** Sempre aprendendo e evoluindo  
+🌱 **Atualmente aprendendo:** Next.js 15, TypeScript Avançado e Web Performance
 
 ---
 
