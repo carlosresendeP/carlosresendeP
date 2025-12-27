@@ -1,116 +1,74 @@
-# 👋 Olá! Eu sou o Carlos!
+# 👋 Olá, eu sou o Carlos!
 
-Sou um desenvolvedor front-end. Aqui você encontrará meus projetos, experiências e evolução no mundo do desenvolvimento web. 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Carlos%20Resende&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/carlos-paula2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://devcarlosresende.com.br">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:dev.carlosresende@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre Mim
 
-- 🎯 Foco em criação de sites modernos, rápidos e responsivos.
-- 💻 Desenvolvo com foco em performance, acessibilidade e boas práticas.
-- 🌱 Freelancer
-- ✨ UI/UX 
-- 📍 Sempre aprendendo e evoluindo!
+Sou um **Desenvolvedor Front-end** apaixonado por criar experiências digitais de alto impacto. Meu foco é unir **design UI/UX** com código limpo e performático.
+
+- 🎯 **Foco atual:** Aplicações escaláveis com Next.js e TypeScript.
+- 💻 **Mindset:** Performance, acessibilidade (A11y) e SEO.
+- 🌱 **Evolução:** Freelancer dedicado a transformar ideias em produtos reais.
+- ⚡ **Diferencial:** Olhar crítico para design e experiência do usuário.
 
 ---
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| Front-end     | Back-end    | Estilo       | Ferramentas & Outros |
-|---------------|-------------|--------------|-----------------------|
-| HTML          | Node.js     | CSS          | Git & GitHub          |
-| JavaScript    | Express     | Sass         | Figma                 |
-| React         | MongoDb     | Bootstrap    | VS Code               |
-| typescript    | Docker      | tailwindcss  |                       |
+### 🎨 Front-end & Estilização
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚙️ Back-end & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-<h2> 💻 Tecnologias</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-      <br />HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-      <br />CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" />
-      <br />Sass
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-      <br />Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-      <br />React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-      <br />Express
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-      <br />Figma
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-      <br />Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40" alt="Docker" />
-      <br />Tailwindcss
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" alt="typescript" />
-      <br />typescript
-    </td>
-  </tr>
-</table>
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📁 Projetos em Destaque
 
-Explore meus repositórios para ver projetos de portfólio, landing pages, aplicações com React, consumo de APIs, entre outros!
+* **[Projeto 1]**: Descrição rápida do que o projeto faz e tecnologias usadas.
+* **[Projeto 2]**: Descrição rápida do que o projeto faz e tecnologias usadas.
 
 ---
 
-## 📬 Contato
-
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlos-paula2001/))
-- 🌐 [Portfólio](https://devcarlosresende.com.br)
-- ✉️ dev.carlosresende@hotmail.com
-
----
-
-> *"Construindo interfaces com propósito e performance."*
-
+<p align="center">
+  <i>"Construindo interfaces com propósito e performance."</i><br>
+  🚀 Conecte-se comigo e vamos criar algo incrível!
+</p>
